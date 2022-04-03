@@ -1,7 +1,7 @@
 {
-  "name": "url-shortener",
-  "version": "1.0.0",
-  "description": "A URL shortener service like bit.ly ## Run npm install ## npm run devStart",
+  "name": "LonToS",
+  "version": "1.17.11",
+  "description": "Ronen projects...",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
