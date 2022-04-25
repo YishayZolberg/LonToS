@@ -3,7 +3,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const dbConnection = require("./config/db");
-dbConnection.once("open", () => console.log("succefuly connect to local db"));
+dbConnection.once("open", () => console.log("successfully connect to local db"));
 
 app.use(
   express.json({
